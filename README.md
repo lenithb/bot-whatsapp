@@ -111,4 +111,3 @@ curl -X POST http://localhost:8000/webhook \
   -d "From=whatsapp:+5493812345678"
 ```
 # bot-whatsapp
-# bot-whatsapp
